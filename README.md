@@ -1,6 +1,6 @@
-# AshxConverter
+# ASHX converter
 
-AshxConverter is een C#-applicatie die het eenvoudig maakt om verschillende bestandstypen te converteren met behulp van een flexibele en uitbreidbare structuur. Deze tool is ideaal voor ontwikkelaars die met ASP.NET werken en regelmatig geconfronteerd worden met de noodzaak om data te converteren of te exporteren via .ashx handlers.
+AshxConverter is een C#-applicatie die het eenvoudig maakt om verschillende bestandstypen te converteren met behulp van een flexibele en uitbreidbare structuur. Deze tool is ideaal voor ontwikkelaars die met ASP.NET werken en regelmatig geconfronteerd worden met de noodzaak om data te converteren of te exporteren via .ashx handlers. Het is gebouwd met .NET 10.0.
 
 ## Features
 
